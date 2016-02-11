@@ -3,8 +3,12 @@ This document is a collection of custom keybindings for VSCode.
 
 These keybindings are simplified controls for moving around working files.
 
-    Pressing alt+cmd+down will go to the next working file.
-    Pressing alt+cmd+up will go to the previous working file.
+Keybind Description:
+
+    Pressing _alt+cmd+down_ will go to the __next working file__.
+    Pressing _alt+cmd+up_ will go to the __previous working file__.
+
+Settings file:
 
     {
         "key": "alt+cmd+down",
