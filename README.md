@@ -5,8 +5,8 @@ These keybindings are simplified controls for moving around working files.
 
 Keybind Description:
 
-    Pressing *alt+cmd+down* will go to the next working file.
-    Pressing *alt+cmd+up* will go to the previous working file.
+    Pressing alt+cmd+down will go to the next working file.
+    Pressing alt+cmd+up will go to the previous working file.
 
 Settings file:
 
